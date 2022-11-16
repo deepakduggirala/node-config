@@ -4,7 +4,7 @@ Using [dotenv](https://github.com/motdotla/dotenv)
 
 Features:
 - Specify config which is constant across environments
-- Overidable config
+- Overridable config
 - Mandatory config
 - Secrets
 
